@@ -1,5 +1,5 @@
 
-A Simple React To Do app made to mainly learn react
+A Simple React To Do app made mainly to learn react
 
 
 
